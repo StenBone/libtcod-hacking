@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sten_bone/locals/libtcod-hacking/build",
+  "command": "/usr/bin/clang++-10    -g   -o CMakeFiles/libtcod-hacking.dir/main.cpp.o -c /home/sten_bone/locals/libtcod-hacking/main.cpp",
+  "file": "/home/sten_bone/locals/libtcod-hacking/main.cpp"
+}
+]

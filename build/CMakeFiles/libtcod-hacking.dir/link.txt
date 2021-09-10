@@ -1,0 +1,1 @@
+/usr/bin/clang++-10  -g  -rdynamic CMakeFiles/libtcod-hacking.dir/main.cpp.o  -o libtcod-hacking 
